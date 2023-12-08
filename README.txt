@@ -1,6 +1,6 @@
-Please be a familiar with this file, before running the project!
+#Please be a familiar with this file, before running the project!
  
-Welcome to our CRM System project!
+##Welcome to our CRM System project!
 
 -To achieve better user experience and to avoid the boring writing of commands,
 our company decided to present the functionality of each command with the number that stands before it.
