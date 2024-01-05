@@ -2,7 +2,7 @@
 
 ## Welcome to our CRM System project!
 
-To enhance user experience and avoid the tedious task of entering commands, our company has decided to present the functionality of each command with the number that stands before it.
+Our CRM System is dedicated to facilitating the work of employees within our company in managing relationships with both current and future customers. This application simplifies the process of working with clients, making it more efficient and user-friendly. The project offers an intuitive command-based interface, allowing users to easily create, update, search, delete, and view all active clients. By associating each command with a numeric identifier, the system enhances user interaction.
 
 ### Example for command and its usage:
 
