@@ -1,5 +1,3 @@
-# CRM System
-
 ## Welcome to our CRM System project!
 
 ## Project Overview
