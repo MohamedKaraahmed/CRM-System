@@ -1,5 +1,4 @@
-# CRM System Project README
-
+# CRM System 
 **Important Note:** Please familiarize yourself with this file before running the project!
 
 ## Welcome to our CRM System project!
